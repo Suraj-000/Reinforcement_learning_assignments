@@ -1,0 +1,8 @@
+2.2 Online Knapsack Problem
+
+
+2.2.1 execute Knapsack_PI.py
+
+2.2.2 execute Knapsack_VI.py
+
+2.2.3 change step size and execute Knapsack_VI. Also change step size in env

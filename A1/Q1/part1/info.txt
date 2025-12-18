@@ -1,0 +1,9 @@
+1.2 Stationary Environment Analysis
+
+1.2.1 and 1.2.2 and 1.2.4 will be executed by running policy_iteration.py and value_iteration.py individually.
+
+1.2.3 will be executed by running comparing_policies.
+
+To execute 1.2.5 change discount factor to 0.3 and 0.5 in policy_iteration.py and value_iteration.py individually.
+
+1.2.6 To render gif make get_gif=True.

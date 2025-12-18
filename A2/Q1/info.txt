@@ -1,0 +1,1 @@
+Run main.py to get all the plots and gifs and eval results.
