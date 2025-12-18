@@ -24,11 +24,3 @@
 <p align="center">
   <img src="./gifs/policy_iteration.gif" width="500">
 </p>
-
----
-
-## Standard Value Iteration
-
-<p align="center">
-  <img src="./gifs/value_iteration.gif" width="500">
-</p>
